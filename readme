@@ -111,23 +111,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 4. Fazer push para a branch (`git push origin feature/nova-funcionalidade`)
 5. Abrir um Pull Request
 
-## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-**Desenvolvido por** [Gabriel Coelho Sousa](https://github.com/seu-usuario)
-```
-
-## Principais melhorias realizadas:
-
-1. **Formatação consistente** - Estrutura padronizada para comandos e blocos de código
-2. **Tabela de stack** - Organização visual mais clara das tecnologias
-3. **Pré-requisitos** - Seção adicionada para facilitar a configuração
-4. **Opções de execução** - Separação entre dev e produção
-5. **Scripts disponíveis** - Documentação completa dos comandos npm
-6. **Seção de contribuição** - Guia para colaboradores
-7. **Licença** - Adicionada seção de licença
-8. **Links clicáveis** - URLs formatadas como hyperlinks
-9. **Melhorias de legibilidade** - Uso de emojis, blockquotes e tabelas para melhor escaneabilidade
+**Desenvolvido por** [Gabriel Coelho Sousa](https://github.com/Coelho-G-Dev)
